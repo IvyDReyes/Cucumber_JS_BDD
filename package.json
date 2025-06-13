@@ -1,0 +1,23 @@
+{
+  "name": "cucumberjsbdd",
+  "version": "1.0.0",
+  "description": "cucumber js bdd",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cucumber",
+    "js",
+    "ts",
+    "bdd"
+  ],
+  "author": "ivy delos reyes",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.3.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
